@@ -255,7 +255,7 @@
             <div class="form-group">
                 <label><i class="fas fa-phone"></i> No HP:</label>
                 <input type="text" name="no_hp" required placeholder="Masukkan nomor HP">
-            </div>
+            </div>z
 
             <button type="submit">
                 <i class="fa fa-save"></i> Simpan Data Siswa
